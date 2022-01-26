@@ -29,7 +29,7 @@ export const Search = () => {
 				</button>
 			)}
 		</div>
-		<div className='flex sm:justify-around justify-between items-center flex-wrap' className='m-2 '>
+		<div className='flex sm:justify-around justify-between items-center flex-wrap' >
 			{/* <NavLink  end to='/search'  style={ ( {isActive}) => isActive ? 'my-1 mx-2 p-1 active:ring-2 rounded-md active:ring-blue-500 focus:outline-none focus:shadow-outline': "border-b-1" } className='my-1 mx-2 p-1 active:ring-2 rounded-md active:ring-blue-500 focus:outline-none focus:shadow-outline'> */}
 			<NavLink to='/search'  className={ ( {isActive}) => isActive ? 'my-1 mx-1 sm:mx-2 px-2 py-1 border-b-2 border-orange-500  text-orange-500  ': 
 										'my-1 mx-1 sm:mx-2 px-2 py-1 hover:ring-2 rounded-md hover:ring-orange-500 '}>

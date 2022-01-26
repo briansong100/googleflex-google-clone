@@ -43,7 +43,7 @@ export const Search = () => {
 										'my-1  mx-1 sm:mx-2 px-2 py-1 hover:ring-2 rounded-md hover:ring-lime-500 '}>
 				Images
 			</NavLink>
-			<NavLink  to='/videos' className={ ( {isActive}) => isActive ? 'my-1 px-2 py-1 border-b-2 border-sky-600  text-sky-600 ': 
+			<NavLink  to='/videos' className={ ( {isActive}) => isActive ? 'my-1  mx-1 sm:mx-2 px-2 py-1 border-b-2 border-sky-600  text-sky-600 ': 
 										'my-1 mx-1 sm:mx-2  px-2 py-1 hover:ring-2 rounded-md hover:ring-sky-600 '}>
 				Videos
 			</NavLink>

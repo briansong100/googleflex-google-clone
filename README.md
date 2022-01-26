@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Google Search Cron
 Ract, Tailwind, Rapid API
 
-Please check: https://googol-brian.netlify.app
+Please check: googolflex.netlify.app

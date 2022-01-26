@@ -21,7 +21,6 @@ export const Result = () => {
 	}, [pathname,  searchTerm])
 	
 
-
 	if (searchTerm.trim() ==='' ) {
 		return (
 		<div className='flex justify-center items-center h-96'>
@@ -105,8 +104,6 @@ export const Result = () => {
 							<p className='text-3xl text-bold' >Welcome to GooGoL Search !</p>
 						</div>
 				</div>
-
-				
 			)
 	}
 };

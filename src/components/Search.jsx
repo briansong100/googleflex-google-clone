@@ -12,7 +12,7 @@ export const Search = () => {
 	useEffect (()=>{
 		if (debouncedValue) setSearchTerm(debouncedValue)
 	},[debouncedValue])
-	// ml-30 sm:ml-48 md:ml-72
+
 	return (
 	<div className='flex justify-between items-center p-2 flex-wrap '>
 		<div className='relative '>

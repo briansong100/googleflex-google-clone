@@ -2,7 +2,6 @@ import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom'
 import { Result } from './Result';
 
-
 export const Routers = () => {
 
 	return (
@@ -16,7 +15,6 @@ export const Routers = () => {
 				<Route path='*' element={<Result />} />
 			</Routes>
 		</div>
-
 	)
 };
 

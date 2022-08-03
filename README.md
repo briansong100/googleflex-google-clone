@@ -1,4 +1,4 @@
 # Google Search Cron
 Ract, Tailwind, Rapid API
 
-Please check: googolflex.netlify.app
+Please check:  https://googolflex.netlify.app
